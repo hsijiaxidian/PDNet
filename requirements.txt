@@ -1,0 +1,12 @@
+opencv-python==3.4.1.15
+scikit-image==0.12.3
+torch==0.4.0
+torchvision==0.2.1
+h5py==2.7.0
+numpy==1.14.4
+
+## Notations
+
+1. Before training the PDNet, you need to prepare the training data by running "prepare_patches.py"
+2. Run the main function "train.py"
+
